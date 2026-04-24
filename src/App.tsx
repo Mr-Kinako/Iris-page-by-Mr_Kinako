@@ -1,13 +1,12 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router";
 // import cn from 'classnames';
 import classes from './App.module.scss';
-// import { GitHubIcon } from "./assets/svg/GitHubIcon";
 import avatar from '@assets/icon.webp';
 // import video from '@/name.mp4'; (or another format)
 
 const LINKS = {
     SOCIALS: {
-        GITHUB: "https://github.com/Mr-Kinako/Mr_Kinako-Personal-Page",
+        GITHUB: "https://github.com/Mr-Kinako/Iris-page-by-Mr_Kinako/",
     }
 };
 

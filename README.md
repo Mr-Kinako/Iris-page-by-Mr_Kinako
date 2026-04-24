@@ -10,4 +10,4 @@
 
 ---
 
-**The site is located at:** https://name.github.io/name-repo/
+**The site is located at:** https://mr-kinako.github.io/Iris-page-by-Mr_Kinako/
