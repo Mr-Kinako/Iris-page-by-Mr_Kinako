@@ -109,7 +109,7 @@ export const App = () => {
                                 >
                                     <Link
                                         className="callback-btn-not-found"
-                                        to="/Iris-page-by-Mr_Kinako/"
+                                        to="/"
                                         replace
                                     >
                                         Navigate to: "/".
