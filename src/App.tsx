@@ -81,7 +81,7 @@ const Home = () => {
 export const App = () => {
     return (
         <div className={classes['app-root']}>
-            <BrowserRouter>
+            <BrowserRouter basename="/Iris-page-by-Mr_Kinako/">
                 <div className={classes['background']}
                     aria-hidden="true"
                     draggable={false}
@@ -89,7 +89,7 @@ export const App = () => {
                 
                 <div className={classes['app-content']}>
                     <Routes>
-                        <Route path="/Iris-page-by-Mr_Kinako/"
+                        <Route path="/"
                             element={
                                 <Home />
                             }
@@ -109,10 +109,10 @@ export const App = () => {
                                 >
                                     <Link
                                         className="callback-btn-not-found"
-                                        to="/Iris-page-by-Mr_Kinako/"
+                                        to="/"
                                         replace
                                     >
-                                        Navigate to: "/Iris-page-by-Mr_Kinako/".
+                                        Navigate to: "/".
                                     </Link>
                                 </p>
                                 </>
