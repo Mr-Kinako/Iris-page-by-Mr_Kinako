@@ -1,6 +1,7 @@
 .vscode/
 node_modules/
 public/myMusic/
+dist/
 .env
 TODO.md
 roadmap.md
