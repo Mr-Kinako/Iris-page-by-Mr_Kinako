@@ -1,0 +1,8 @@
+.vscode/
+node_modules/
+public/myMusic/
+.env
+package-lock.json
+TODO.md
+roadmap.md
+vercel.json
