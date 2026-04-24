@@ -89,7 +89,7 @@ export const App = () => {
                 
                 <div className={classes['app-content']}>
                     <Routes>
-                        <Route path="/"
+                        <Route path="/Iris-page-by-Mr_Kinako/"
                             element={
                                 <Home />
                             }
@@ -109,10 +109,10 @@ export const App = () => {
                                 >
                                     <Link
                                         className="callback-btn-not-found"
-                                        to="/"
+                                        to="/Iris-page-by-Mr_Kinako/"
                                         replace
                                     >
-                                        Please, navigate to: "/".
+                                        Navigate to: "/Iris-page-by-Mr_Kinako/".
                                     </Link>
                                 </p>
                                 </>
