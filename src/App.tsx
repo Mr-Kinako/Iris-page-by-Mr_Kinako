@@ -6,7 +6,7 @@ import avatar from '@assets/icon.webp';
 
 const LINKS = {
     SOCIALS: {
-        GITHUB: "https://github.com/Mr-Kinako/Iris-page-by-Mr_Kinako/",
+        GITHUB: "https://github.com/Mr-Kinako/Iris-page-by-Mr_Kinako",
     }
 };
 
