@@ -5,7 +5,7 @@ import path from 'path'
 export default defineConfig(() => {
 
     return {
-        base: '/',
+        base: '/Iris-page-by-Mr_Kinako/',
         plugins: [
             react()
         ],
